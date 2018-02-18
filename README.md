@@ -18,4 +18,4 @@ Then, there was (and is) CodeSpells V2. [You can get this one on Steam now](http
 
 ### The Bright Future?
 
-Now... there is CodeSpells V3.  We don't really know what it will become -- except that it'll be awesome.  It's a project driven by the community.  (The original creators of CodeSpells fully support this endeavor.)  
+Now... there is CodeSpells V3.  We don't really know what it will become -- except that it'll be awesome.  It's a project driven by the community.  Also: The original creators of CodeSpells fully support this endeavor.  

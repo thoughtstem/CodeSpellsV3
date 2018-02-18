@@ -4,7 +4,7 @@
 
 In the beginning, there was CodeSpells V1
 
-![alt text](https://forums.unrealengine.com/community/work-in-progress/7061-rama-says-hi-from-inside-his-mech-video/page3)
+![alt text](https://i.ytimg.com/vi/TslR9CG6yKI/hqdefault.jpg)
 
 (We do not speak of this one.)
 
